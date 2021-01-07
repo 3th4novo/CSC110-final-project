@@ -1,0 +1,21 @@
+# CSC110 Fall 2020: Python libraries we'll be using this final project.
+
+# Reading Datasets
+csv
+re
+
+# Code
+typing
+dataclasses
+random
+
+# Testing and code checking
+pytest
+python_ta
+python_ta.contracts
+doctest
+
+# Graphics and data visualization
+plotly
+plotly.graph_objects
+plotly.subplots
